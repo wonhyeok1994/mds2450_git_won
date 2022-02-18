@@ -1,0 +1,1401 @@
+Archive member included because of file (symbol)
+
+/opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-rand.o)
+                              Main.o (srand)
+/opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-vsprintf.o)
+                              Uart.o (vsprintf)
+/opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-impure.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-rand.o) (_impure_ptr)
+/opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-vsprintf.o) (_svfprintf_r)
+/opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o) (_dtoa_r)
+/opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o) (_localeconv_r)
+/opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o) (_malloc_r)
+/opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-memchr.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o) (memchr)
+/opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-memcpy.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-dtoa.o) (memcpy)
+/opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mallocr.o) (__malloc_lock)
+/opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-dtoa.o) (_Balloc)
+/opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-s_fpclassify.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o) (__fpclassifyd)
+/opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mallocr.o) (_sbrk_r)
+/opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-locale.o) (strcmp)
+/opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o) (__ssprint_r)
+/opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-callocr.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mprec.o) (_calloc_r)
+/opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-freer.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mallocr.o) (_free_r)
+/opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o) (memmove)
+/opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-memset.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-callocr.o) (memset)
+/opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o) (_realloc_r)
+/opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-reent.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-sbrkr.o) (errno)
+/opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivsi3.o)
+                              Lcd_480x272.o (__aeabi_uidiv)
+/opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divsi3.o)
+                              Main.o (__aeabi_idiv)
+/opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_dvmd_tls.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+/opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+                              Main.o (__aeabi_dsub)
+/opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_muldivdf3.o)
+                              Main.o (__aeabi_dmul)
+/opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o) (__aeabi_dcmpeq)
+/opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_fixdfsi.o)
+                              Main.o (__aeabi_d2iz)
+/opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_fixunsdfsi.o)
+                              Uart.o (__aeabi_d2uiz)
+/opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_aeabi_uldivmod.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o) (__aeabi_uldivmod)
+/opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(bpabi.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_aeabi_uldivmod.o) (__gnu_uldivmod_helper)
+/opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divdi3.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(bpabi.o) (__divdi3)
+/opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivdi3.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(bpabi.o) (__udivdi3)
+/opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_clzsi2.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divdi3.o) (__clzsi2)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-reent.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+CODE             0x30000000         0x04000000         rw
+_ISR_START       0x33ffff00         0x00000100         rw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+
+.text           0x30000000     0xe91c
+ *s3c2450_startup.o(.text)
+ .text          0x30000000      0x300 s3c2450_startup.o
+                0x30000000                _start
+                0x300000b0                ResetHandler
+                0x300001a8                IsrIRQ
+                0x30000254                _sbrk
+ *(.text)
+ .text          0x30000300      0x678 libc.o
+                0x30000300                MMU_Init
+                0x30000500                MMU_SetMTT
+                0x300005b8                ChangeRomCacheStatus
+                0x30000684                malloc
+                0x30000724                free
+                0x30000754                Led_Port_Init
+                0x3000076c                Led_Display
+                0x3000078c                start_timer0
+                0x300007e0                stop_timer0
+                0x30000808                time
+                0x30000838                MemFill
+                0x300008a8                MemDump
+ .text          0x30000978      0xfd0 Main.o
+                0x30000978                Touch_ISR
+                0x30000cd0                HW_Initial
+                0x30000d04                Main
+ .text          0x30001948      0x820 Uart.o
+                0x30001948                Uart_Init
+                0x30001a54                Uart_Printf
+                0x30001a9c                Uart_Send_String
+                0x30001aec                Uart_Send_Byte
+                0x30001b70                Uart_GetChar
+                0x30001bb8                Uart_Get_Pressed
+                0x30001c08                Uart_TxEmpty
+                0x30001c44                Uart_GetKey
+                0x30001c94                Uart_GetString
+                0x30001d98                atoi
+                0x30001e68                strlen
+                0x30001ec0                Uart_GetIntNum
+ .text          0x30002168      0x5a8 timer.o
+                0x30002168                Timer2_ISR
+                0x30002394                bet_limit_init
+                0x300023ac                bet_randomUp_init
+                0x300023c4                whole_time_init
+                0x300024ec                whole_time
+                0x300025cc                Timer0_Init
+                0x30002630                Timer0_Delay
+ .text          0x30002710      0x184 exception.o
+                0x30002710                SWI_Handler
+                0x3000272c                Undef_Handler
+                0x30002748                Pabort_Handler
+                0x30002784                Dabort_Handler
+                0x300027c0                Exception_Init
+ .text          0x30002894     0x27b8 Lcd_480x272.o
+                0x30002894                Lcd_Envid_On_Off
+                0x300028f8                Lcd_Power_Enable
+                0x3000291c                Lcd_Port_Init
+                0x30002a24                Graphic_Init
+                0x30002a58                Lcd_Init
+                0x30002b8c                Lcd_Set_Address
+                0x30002bec                Lcd_Wait_Blank
+                0x30002c04                Lcd_Copy
+                0x30002c90                Lcd_Select_Frame_Buffer
+                0x30002cd0                Lcd_Display_Frame_Buffer
+                0x30002d08                Lcd_Put_Pixel
+                0x30002d70                Lcd_Set_Tran_Mode
+                0x30002dbc                Lcd_Clr_Screen
+                0x30002e48                Lcd_Han_Putch
+                0x30003c68                Lcd_Eng_Putch
+                0x300041d8                Lcd_Puts
+                0x300042ec                Lcd_Printf
+                0x30004360                Lcd_Get_Info_BMP
+                0x300043b8                Lcd_Draw_BMP
+                0x300046a8                Lcd_Draw_Color
+                0x30004a68                Check_Func
+                0x30004cfc                Make_bg_Buffer
+                0x30004d5c                Lcd_Make_Bmp_Buffer
+ .text          0x3000504c      0x158 touch.o
+                0x3000504c                Touch_Init
+                0x30005098                Touch_Isr_Init
+                0x300050fc                Touch_ISR_Enable
+ *fill*         0x300051a4        0x4 00
+ .text          0x300051a8      0xa00 buzzer.o
+                0x300051a8                Buzzer_Init
+                0x30005204                Buzzer_Beep
+                0x300052c0                Beep
+                0x30005440                DelayForPlay2
+                0x300054d0                gamesong
+                0x30005768                touchsound10
+                0x300057a0                touchsoundAll
+                0x300057d8                touchsound0
+                0x30005814                touchsoundbat
+                0x30005858                touchsoundstop
+                0x30005898                BuzzerTest
+                0x30005a64                Led0_Port_Init
+                0x30005ad8                Led0_Display
+ .text          0x30005ba8      0x224 libs.o
+                0x30005ba8                HOW_TO_RETURN
+                0x30005bac                CONDITIONAL_EXECUTE
+                0x30005bb0                DATA_PROCESS1
+                0x30005bb4                DATA_PROCESS2
+                0x30005bb8                SUM_OF_DEC
+                0x30005bc0                GRT_COM_MES
+                0x30005bd4                MEMCPY_SINGLE
+                0x30005bdc                MEMCPY_MULTIPLE
+                0x30005be4                MEMCPY
+                0x30005c40                SET_IF
+                0x30005c54                WR_IF
+                0x30005c5c                CLR_IF
+                0x30005c6c                MMU_EnableICache
+                0x30005c7c                MMU_DisableICache
+                0x30005c8c                MMU_EnableDCache
+                0x30005c9c                MMU_DisableDCache
+                0x30005cac                MMU_EnableAlignFault
+                0x30005cbc                MMU_DisableAlignFault
+                0x30005ccc                MMU_EnableMMU
+                0x30005cdc                MMU_DisableMMU
+                0x30005cec                MMU_SetFastBusMode
+                0x30005d00                MMU_SetAsyncBusMode
+                0x30005d14                MMU_SetTTBase
+                0x30005d1c                MMU_SetDomain
+                0x30005d24                MMU_InvalidateIDCache
+                0x30005d2c                MMU_InvalidateICache
+                0x30005d34                MMU_InvalidateICacheMVA
+                0x30005d3c                MMU_PrefetchICacheMVA
+                0x30005d44                MMU_InvalidateDCache
+                0x30005d4c                MMU_InvalidateDCacheMVA
+                0x30005d54                MMU_CleanDCacheMVA
+                0x30005d5c                MMU_CleanInvalidateDCacheMVA
+                0x30005d64                MMU_CleanDCacheIndex
+                0x30005d6c                MMU_CleanInvalidateDCacheIndex
+                0x30005d74                MMU_WaitForInterrupt
+                0x30005d7c                MMU_InvalidateTLB
+                0x30005d84                MMU_InvalidateITLB
+                0x30005d8c                MMU_InvalidateITLBMVA
+                0x30005d94                MMU_InvalidateDTLB
+                0x30005d9c                MMU_InvalidateDTLBMVA
+                0x30005da4                MMU_SetDCacheLockdownBase
+                0x30005dac                MMU_SetICacheLockdownBase
+                0x30005db4                MMU_SetDTLBLockdown
+                0x30005dbc                MMU_SetITLBLockdown
+                0x30005dc4                MMU_SetProcessId
+ .text          0x30005dcc       0x78 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-rand.o)
+                0x30005dcc                srand
+                0x30005de8                rand
+ .text          0x30005e44       0x7c /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-vsprintf.o)
+                0x30005e44                _vsprintf_r
+                0x30005e94                vsprintf
+ .text          0x30005ec0        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ .text          0x30005ec0     0x2138 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+                0x30005ec0                _svfprintf_r
+ .text          0x30007ff8     0x17d0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+                0x300081c8                _dtoa_r
+ .text          0x300097c8       0xd0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                0x300097c8                _setlocale_r
+                0x30009834                __locale_charset
+                0x30009840                __locale_mb_cur_max
+                0x30009850                __locale_msgcharset
+                0x3000985c                __locale_cjk_lang
+                0x30009864                _localeconv_r
+                0x30009870                setlocale
+                0x3000988c                localeconv
+ .text          0x30009898      0x70c /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x30009898                _malloc_r
+ .text          0x30009fa4      0x104 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-memchr.o)
+                0x30009fa4                memchr
+ .text          0x3000a0a8      0x1c0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-memcpy.o)
+                0x3000a0a8                memcpy
+ .text          0x3000a268        0x8 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+                0x3000a268                __malloc_lock
+                0x3000a26c                __malloc_unlock
+ .text          0x3000a270      0xcfc /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x3000a270                _Balloc
+                0x3000a2f8                _Bfree
+                0x3000a314                __multadd
+                0x3000a3f0                __s2b
+                0x3000a4dc                __hi0bits
+                0x3000a52c                __lo0bits
+                0x3000a5bc                __i2b
+                0x3000a5e0                __multiply
+                0x3000a7c8                __pow5mult
+                0x3000a8bc                __lshift
+                0x3000a9c0                __mcmp
+                0x3000aa20                __mdiff
+                0x3000ab78                __ulp
+                0x3000abd8                __b2d
+                0x3000ac9c                __d2b
+                0x3000ada4                __ratio
+                0x3000ae1c                _mprec_log10
+                0x3000ae70                __copybits
+                0x3000aee4                __any_on
+ .text          0x3000af6c       0x8c /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-s_fpclassify.o)
+                0x3000af6c                __fpclassifyd
+ .text          0x3000aff8       0x40 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+                0x3000aff8                _sbrk_r
+ .text          0x3000b038      0x230 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+                0x3000b038                strcmp
+ .text          0x3000b268     0x1238 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+                0x3000b268                __ssprint_r
+                0x3000b404                _svfiprintf_r
+ .text          0x3000c4a0       0x9c /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-callocr.o)
+                0x3000c4a0                _calloc_r
+ .text          0x3000c53c      0x360 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-freer.o)
+                0x3000c53c                _malloc_trim_r
+                0x3000c638                _free_r
+ .text          0x3000c89c      0x128 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+                0x3000c89c                memmove
+ .text          0x3000c9c4      0x100 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-memset.o)
+                0x3000c9c4                memset
+ .text          0x3000cac4      0x5c0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+                0x3000cac4                _realloc_r
+ .text          0x3000d084      0x1ac /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-reent.o)
+                0x3000d084                cleanup_glue
+                0x3000d0b0                _reclaim_reent
+                0x3000d1b8                _wrapup_reent
+ .text          0x3000d230      0x114 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivsi3.o)
+                0x3000d230                __udivsi3
+                0x3000d230                __aeabi_uidiv
+                0x3000d324                __aeabi_uidivmod
+ .text          0x3000d344      0x148 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divsi3.o)
+                0x3000d344                __aeabi_idiv
+                0x3000d344                __divsi3
+                0x3000d46c                __aeabi_idivmod
+ .text          0x3000d48c        0x4 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_dvmd_tls.o)
+                0x3000d48c                __aeabi_ldiv0
+                0x3000d48c                __aeabi_idiv0
+ .text          0x3000d490      0x41c /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+                0x3000d490                __aeabi_drsub
+                0x3000d498                __aeabi_dsub
+                0x3000d498                __subdf3
+                0x3000d49c                __adddf3
+                0x3000d49c                __aeabi_dadd
+                0x3000d7ac                __aeabi_ui2d
+                0x3000d7ac                __floatunsidf
+                0x3000d7d0                __floatsidf
+                0x3000d7d0                __aeabi_i2d
+                0x3000d7f8                __extendsfdf2
+                0x3000d7f8                __aeabi_f2d
+                0x3000d838                __aeabi_ul2d
+                0x3000d838                __floatundidf
+                0x3000d84c                __floatdidf
+                0x3000d84c                __aeabi_l2d
+ .text          0x3000d8ac      0x49c /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_muldivdf3.o)
+                0x3000d8ac                __aeabi_dmul
+                0x3000d8ac                __muldf3
+                0x3000db3c                __aeabi_ddiv
+                0x3000db3c                __divdf3
+ .text          0x3000dd48      0x144 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+                0x3000dd48                __gtdf2
+                0x3000dd48                __gedf2
+                0x3000dd50                __ltdf2
+                0x3000dd50                __ledf2
+                0x3000dd58                __cmpdf2
+                0x3000dd58                __eqdf2
+                0x3000dd58                __nedf2
+                0x3000dde0                __aeabi_cdrcmple
+                0x3000ddfc                __aeabi_cdcmple
+                0x3000ddfc                __aeabi_cdcmpeq
+                0x3000de14                __aeabi_dcmpeq
+                0x3000de2c                __aeabi_dcmplt
+                0x3000de44                __aeabi_dcmple
+                0x3000de5c                __aeabi_dcmpge
+                0x3000de74                __aeabi_dcmpgt
+ .text          0x3000de8c       0x5c /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_fixdfsi.o)
+                0x3000de8c                __fixdfsi
+                0x3000de8c                __aeabi_d2iz
+ .text          0x3000dee8       0x54 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_fixunsdfsi.o)
+                0x3000dee8                __fixunsdfsi
+                0x3000dee8                __aeabi_d2uiz
+ .text          0x3000df3c       0x3c /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_aeabi_uldivmod.o)
+                0x3000df3c                __aeabi_uldivmod
+ .text          0x3000df78       0x80 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(bpabi.o)
+                0x3000df78                __gnu_ldivmod_helper
+                0x3000dfb8                __gnu_uldivmod_helper
+ .text          0x3000dff8      0x4a8 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divdi3.o)
+                0x3000dff8                __divdi3
+ .text          0x3000e4a0      0x434 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivdi3.o)
+                0x3000e4a0                __udivdi3
+ .text          0x3000e8d4       0x48 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_clzsi2.o)
+                0x3000e8d4                __clzsi2
+                0x3000e91c                . = ALIGN (0x4)
+
+.glue_7         0x3000e91c        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x3000e91c        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x3000e91c        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x3000e91c        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.rodata         0x3000e920   0x14b31c
+                0x3000e920                rodata_start_addr = .
+ *(.rodata)
+ .rodata        0x3000e920       0x4c libc.o
+ .rodata        0x3000e96c   0x130ec4 Main.o
+                0x3000e96c                realui
+                0x3006e3a4                Title1
+                0x300cdddc                bat
+                0x300d6d84                stop
+                0x300dfd2c                howtoplay
+ .rodata        0x3013f830       0x28 Uart.o
+ .rodata        0x3013f858    0x11f74 timer.o
+                0x3013f858                bat_2
+                0x30148800                stop_2
+ .rodata        0x301517cc       0x84 exception.o
+ .rodata        0x30151850     0x821c Lcd_480x272.o
+                0x30151850                eng8x16
+                0x30152850                han16x16
+                0x30155554                HanTable
+ .rodata        0x30159a6c        0x4 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-impure.o)
+                0x30159a6c                _global_impure_ptr
+ .rodata        0x30159a70       0x20 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+ .rodata        0x30159a90      0x128 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x30159aa0                __mprec_tens
+                0x30159b68                __mprec_bigtens
+                0x30159b90                __mprec_tinytens
+ .rodata        0x30159bb8       0x20 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+ *(.rodata.*)
+ .rodata.str1.4
+                0x30159bd8        0x2 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-impure.o)
+                                  0x4 (size before relaxing)
+ *fill*         0x30159bda        0x2 00
+ .rodata.str1.4
+                0x30159bdc       0x42 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+                                 0x44 (size before relaxing)
+ *fill*         0x30159c1e        0x2 00
+ .rodata.str1.4
+                0x30159c20       0x10 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+                                 0x14 (size before relaxing)
+ .rodata.str1.4
+                0x30159c30        0xc /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                                 0x14 (size before relaxing)
+ .rodata.str1.4
+                0x00000000       0x30 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+                0x30159c3c                . = ALIGN (0x4)
+                0x30159c3c                rodata_end_addr = .
+
+.ARM.extab      0x30159c3c        0x0
+ .ARM.extab     0x30159c3c        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divdi3.o)
+ .ARM.extab     0x30159c3c        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivdi3.o)
+
+.ARM.exidx      0x30159c3c        0x8
+ .ARM.exidx     0x30159c3c        0x8 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divdi3.o)
+ .ARM.exidx     0x30159c44        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivdi3.o)
+                                  0x8 (size before relaxing)
+
+.data           0x30159c48      0x988
+                0x30159c48                data_start_addr = .
+                0x30159c48                __DATA_START__ = .
+ *(.data)
+ .data          0x30159c48        0x0 s3c2450_startup.o
+ .data          0x30159c48        0x4 libc.o
+                0x30159c48                mallocPt
+ .data          0x30159c4c       0x14 Main.o
+                0x30159c4c                Cal_x1
+                0x30159c50                Cal_y1
+                0x30159c54                Cal_x2
+                0x30159c58                Cal_y2
+                0x30159c5c                Touch_config
+ .data          0x30159c60        0x0 Uart.o
+ .data          0x30159c60        0x0 timer.o
+ .data          0x30159c60        0x0 exception.o
+ .data          0x30159c60       0xac Lcd_480x272.o
+ .data          0x30159d0c        0x0 touch.o
+ .data          0x30159d0c        0x0 buzzer.o
+ .data          0x30159d0c        0x0 libs.o
+ .data          0x30159d0c        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-rand.o)
+ .data          0x30159d0c        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-vsprintf.o)
+ *fill*         0x30159d0c        0x4 00
+ .data          0x30159d10      0x430 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-impure.o)
+                0x30159d10                _impure_ptr
+ .data          0x3015a140        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+ .data          0x3015a140        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+ .data          0x3015a140       0x7c /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                0x3015a160                __mb_cur_max
+ .data          0x3015a1bc      0x410 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x3015a1bc                __malloc_av_
+                0x3015a5c4                __malloc_sbrk_base
+                0x3015a5c8                __malloc_trim_threshold
+ .data          0x3015a5cc        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-memchr.o)
+ .data          0x3015a5cc        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-memcpy.o)
+ .data          0x3015a5cc        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .data          0x3015a5cc        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+ .data          0x3015a5cc        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-s_fpclassify.o)
+ .data          0x3015a5cc        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .data          0x3015a5cc        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+ .data          0x3015a5cc        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+ .data          0x3015a5cc        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-callocr.o)
+ .data          0x3015a5cc        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .data          0x3015a5cc        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+ .data          0x3015a5cc        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .data          0x3015a5cc        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+ .data          0x3015a5cc        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .data          0x3015a5cc        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivsi3.o)
+ .data          0x3015a5cc        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divsi3.o)
+ .data          0x3015a5cc        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_dvmd_tls.o)
+ .data          0x3015a5cc        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+ .data          0x3015a5cc        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_muldivdf3.o)
+ .data          0x3015a5cc        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+ .data          0x3015a5cc        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_fixdfsi.o)
+ .data          0x3015a5cc        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_fixunsdfsi.o)
+ .data          0x3015a5cc        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_aeabi_uldivmod.o)
+ .data          0x3015a5cc        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(bpabi.o)
+ .data          0x3015a5cc        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divdi3.o)
+ .data          0x3015a5cc        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivdi3.o)
+ .data          0x3015a5cc        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_clzsi2.o)
+ *(.data.*)
+                0x3015a5d0                . = ALIGN (0x8)
+ *fill*         0x3015a5cc        0x4 00
+                0x3015a5d0                data_end_addr = .
+                0x3015a5d0                __DATA_END__ = .
+
+.bss            0x3015a5d0    0x80cd8
+                0x3015a5d0                bss_start_addr = .
+                0x3015a5d0                __BSS_START__ = .
+ *(.bss)
+ .bss           0x3015a5d0        0x0 s3c2450_startup.o
+ .bss           0x3015a5d0        0x0 libc.o
+ .bss           0x3015a5d0       0x1c Main.o
+                0x3015a5d0                raiseSecond_end_reset
+                0x3015a5d4                Touch_pressed
+                0x3015a5d8                ADC_x
+                0x3015a5dc                ADC_y
+                0x3015a5e0                Touch_x
+                0x3015a5e4                Touch_y
+                0x3015a5e8                step
+ .bss           0x3015a5ec        0x0 Uart.o
+ .bss           0x3015a5ec       0x18 timer.o
+                0x3015a5ec                betSecond
+                0x3015a5f0                betSecond_end
+                0x3015a5f4                raiseSecond
+                0x3015a5f8                raiseSecond_end
+                0x3015a5fc                whSecond
+                0x3015a600                whSecond_end
+ .bss           0x3015a604        0x0 exception.o
+ .bss           0x3015a604    0x80c60 Lcd_480x272.o
+                0x3015a604                Fb_ptr
+ .bss           0x301db264        0x0 touch.o
+ .bss           0x301db264        0x0 buzzer.o
+ .bss           0x301db264        0x0 libs.o
+ .bss           0x301db264        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-rand.o)
+ .bss           0x301db264        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-vsprintf.o)
+ .bss           0x301db264        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ .bss           0x301db264        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+ .bss           0x301db264        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+ .bss           0x301db264        0xc /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                0x301db264                __nlocale_changed
+                0x301db268                __mlocale_changed
+                0x301db26c                _PathLocale
+ .bss           0x301db270       0x34 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x301db270                __malloc_top_pad
+                0x301db274                __malloc_current_mallinfo
+                0x301db29c                __malloc_max_sbrked_mem
+                0x301db2a0                __malloc_max_total_mem
+ .bss           0x301db2a4        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-memchr.o)
+ .bss           0x301db2a4        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-memcpy.o)
+ .bss           0x301db2a4        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .bss           0x301db2a4        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+ .bss           0x301db2a4        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-s_fpclassify.o)
+ .bss           0x301db2a4        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .bss           0x301db2a4        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+ .bss           0x301db2a4        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+ .bss           0x301db2a4        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-callocr.o)
+ .bss           0x301db2a4        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .bss           0x301db2a4        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+ .bss           0x301db2a4        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .bss           0x301db2a4        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+ .bss           0x301db2a4        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .bss           0x301db2a4        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivsi3.o)
+ .bss           0x301db2a4        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divsi3.o)
+ .bss           0x301db2a4        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_dvmd_tls.o)
+ .bss           0x301db2a4        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x301db2a4        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_muldivdf3.o)
+ .bss           0x301db2a4        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+ .bss           0x301db2a4        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_fixdfsi.o)
+ .bss           0x301db2a4        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_fixunsdfsi.o)
+ .bss           0x301db2a4        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x301db2a4        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(bpabi.o)
+ .bss           0x301db2a4        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divdi3.o)
+ .bss           0x301db2a4        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivdi3.o)
+ .bss           0x301db2a4        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_clzsi2.o)
+ *(.bss.*)
+ *(COMMON)
+ COMMON         0x301db2a4        0x4 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-reent.o)
+                0x301db2a4                errno
+                0x301db2a8                . = ALIGN (0x8)
+                0x301db2a8                bss_end_addr = .
+                0x301db2a8                __BSS_END__ = .
+                0x301db2a8                end = .
+                0x301db2a8                PROVIDE (end, .)
+
+.int_vec        0x33ffff00       0xc0
+ s3c2450_startup.o(int_vect)
+ int_vect       0x33ffff00       0xc0 s3c2450_startup.o
+                0x33ffff00                HandleReset
+                0x33ffff04                HandleUndef
+                0x33ffff08                HandleSWI
+                0x33ffff0c                HandlePabort
+                0x33ffff10                HandleDabort
+                0x33ffff14                HandleReserved
+                0x33ffff18                HandleIRQ
+                0x33ffff1c                HandleFIQ
+                0x33ffff20                HandleEINT0
+                0x33ffff24                HandleEINT1
+                0x33ffff28                HandleEINT2
+                0x33ffff2c                HandleEINT3
+                0x33ffff30                HandleEINT4_7
+                0x33ffff34                HandleEINT8_23
+                0x33ffff38                HandleCAM
+                0x33ffff3c                HandleBATFLT
+                0x33ffff40                HandleTICK
+                0x33ffff44                HandleWDT
+                0x33ffff48                HandleTIMER0
+                0x33ffff4c                HandleTIMER1
+                0x33ffff50                HandleTIMER2
+                0x33ffff54                HandleTIMER3
+                0x33ffff58                HandleTIMER4
+                0x33ffff5c                HandleUART2
+                0x33ffff60                HandleLCD
+                0x33ffff64                HandleDMA
+                0x33ffff68                HandleUART3
+                0x33ffff6c                HandleCFCON
+                0x33ffff70                HandleSDI1
+                0x33ffff74                HandleSDI0
+                0x33ffff78                HandleSPI0
+                0x33ffff7c                HandleUART1
+                0x33ffff80                HandleNFCON
+                0x33ffff84                HandleUSBD
+                0x33ffff88                HandleUSBH
+                0x33ffff8c                HandleIIC
+                0x33ffff90                HandleUART0
+                0x33ffff94                HandleSPI1
+                0x33ffff98                HandleRTC
+                0x33ffff9c                HandleADC
+                0x33ffffa0                Handle2D
+                0x33ffffa4                HandleIIC1
+                0x33ffffa8                HandleRSV1
+                0x33ffffac                HandleRSV2
+                0x33ffffb0                HandlePCM0
+                0x33ffffb4                HandlePCM1
+                0x33ffffb8                HandleI2S0
+                0x33ffffbc                HandleI2S1
+LOAD libc.o
+LOAD Main.o
+LOAD Uart.o
+LOAD timer.o
+LOAD exception.o
+LOAD Lcd_480x272.o
+LOAD touch.o
+LOAD buzzer.o
+LOAD s3c2450_startup.o
+LOAD libs.o
+LOAD /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a
+LOAD /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a
+LOAD /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a
+OUTPUT(MDS2450 elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x28
+ .ARM.attributes
+                0x00000000       0x1c s3c2450_startup.o
+ .ARM.attributes
+                0x0000001c       0x2c libc.o
+ .ARM.attributes
+                0x00000048       0x2c Main.o
+ .ARM.attributes
+                0x00000074       0x2c Uart.o
+ .ARM.attributes
+                0x000000a0       0x2c timer.o
+ .ARM.attributes
+                0x000000cc       0x2c exception.o
+ .ARM.attributes
+                0x000000f8       0x2c Lcd_480x272.o
+ .ARM.attributes
+                0x00000124       0x2c touch.o
+ .ARM.attributes
+                0x00000150       0x2c buzzer.o
+ .ARM.attributes
+                0x0000017c       0x1c libs.o
+ .ARM.attributes
+                0x00000198       0x34 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-rand.o)
+ .ARM.attributes
+                0x000001cc       0x34 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-vsprintf.o)
+ .ARM.attributes
+                0x00000200       0x34 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000234       0x34 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+ .ARM.attributes
+                0x00000268       0x34 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+ .ARM.attributes
+                0x0000029c       0x34 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+ .ARM.attributes
+                0x000002d0       0x34 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x00000304       0x34 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-memchr.o)
+ .ARM.attributes
+                0x00000338       0x34 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x0000036c       0x34 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x000003a0       0x34 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+ .ARM.attributes
+                0x000003d4       0x34 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-s_fpclassify.o)
+ .ARM.attributes
+                0x00000408       0x34 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x0000043c       0x34 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x00000470       0x34 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+ .ARM.attributes
+                0x000004a4       0x34 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-callocr.o)
+ .ARM.attributes
+                0x000004d8       0x34 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .ARM.attributes
+                0x0000050c       0x34 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x00000540       0x34 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000574       0x34 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+ .ARM.attributes
+                0x000005a8       0x34 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .ARM.attributes
+                0x000005dc       0x1a /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x000005f6       0x1a /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x00000610       0x18 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000628       0x1a /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000642       0x1a /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x0000065c       0x1a /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000676       0x1a /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x00000690       0x1a /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_fixunsdfsi.o)
+ .ARM.attributes
+                0x000006aa       0x1a /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x000006c4       0x34 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(bpabi.o)
+ .ARM.attributes
+                0x000006f8       0x34 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divdi3.o)
+ .ARM.attributes
+                0x0000072c       0x34 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivdi3.o)
+ .ARM.attributes
+                0x00000760       0x1a /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_clzsi2.o)
+
+.comment        0x00000000       0x2a
+ .comment       0x00000000       0x2a libc.o
+                                 0x2b (size before relaxing)
+ .comment       0x00000000       0x2b Main.o
+ .comment       0x00000000       0x2b Uart.o
+ .comment       0x00000000       0x2b timer.o
+ .comment       0x00000000       0x2b exception.o
+ .comment       0x00000000       0x2b Lcd_480x272.o
+ .comment       0x00000000       0x2b touch.o
+ .comment       0x00000000       0x2b buzzer.o
+
+.debug_line     0x00000000      0xe27
+ .debug_line    0x00000000       0xbe s3c2450_startup.o
+ .debug_line    0x000000be       0xfe libc.o
+ .debug_line    0x000001bc      0x1aa Main.o
+ .debug_line    0x00000366      0x1b5 Uart.o
+ .debug_line    0x0000051b       0xbf timer.o
+ .debug_line    0x000005da       0x67 exception.o
+ .debug_line    0x00000641      0x557 Lcd_480x272.o
+ .debug_line    0x00000b98       0x5b touch.o
+ .debug_line    0x00000bf3      0x132 buzzer.o
+ .debug_line    0x00000d25      0x102 libs.o
+
+.debug_info     0x00000000     0x1ba5
+ .debug_info    0x00000000       0x5e s3c2450_startup.o
+ .debug_info    0x0000005e      0x2ea libc.o
+ .debug_info    0x00000348      0x45b Main.o
+ .debug_info    0x000007a3      0x335 Uart.o
+ .debug_info    0x00000ad8      0x230 timer.o
+ .debug_info    0x00000d08      0x130 exception.o
+ .debug_info    0x00000e38      0xaad Lcd_480x272.o
+ .debug_info    0x000018e5       0x99 touch.o
+ .debug_info    0x0000197e      0x1d4 buzzer.o
+ .debug_info    0x00001b52       0x53 libs.o
+
+.debug_abbrev   0x00000000      0x7bb
+ .debug_abbrev  0x00000000       0x14 s3c2450_startup.o
+ .debug_abbrev  0x00000014      0x15c libc.o
+ .debug_abbrev  0x00000170      0x149 Main.o
+ .debug_abbrev  0x000002b9      0x10b Uart.o
+ .debug_abbrev  0x000003c4       0xa7 timer.o
+ .debug_abbrev  0x0000046b       0x7d exception.o
+ .debug_abbrev  0x000004e8      0x198 Lcd_480x272.o
+ .debug_abbrev  0x00000680       0x79 touch.o
+ .debug_abbrev  0x000006f9       0xae buzzer.o
+ .debug_abbrev  0x000007a7       0x14 libs.o
+
+.debug_aranges  0x00000000      0x140
+ .debug_aranges
+                0x00000000       0x20 s3c2450_startup.o
+ .debug_aranges
+                0x00000020       0x20 libc.o
+ .debug_aranges
+                0x00000040       0x20 Main.o
+ .debug_aranges
+                0x00000060       0x20 Uart.o
+ .debug_aranges
+                0x00000080       0x20 timer.o
+ .debug_aranges
+                0x000000a0       0x20 exception.o
+ .debug_aranges
+                0x000000c0       0x20 Lcd_480x272.o
+ .debug_aranges
+                0x000000e0       0x20 touch.o
+ .debug_aranges
+                0x00000100       0x20 buzzer.o
+ .debug_aranges
+                0x00000120       0x20 libs.o
+
+.debug_loc      0x00000000      0xd68
+ .debug_loc     0x00000000      0x210 libc.o
+ .debug_loc     0x00000210       0x84 Main.o
+ .debug_loc     0x00000294      0x210 Uart.o
+ .debug_loc     0x000004a4      0x134 timer.o
+ .debug_loc     0x000005d8       0xdc exception.o
+ .debug_loc     0x000006b4      0x3f4 Lcd_480x272.o
+ .debug_loc     0x00000aa8       0x84 touch.o
+ .debug_loc     0x00000b2c      0x23c buzzer.o
+
+.debug_pubnames
+                0x00000000      0x748
+ .debug_pubnames
+                0x00000000       0xcc libc.o
+ .debug_pubnames
+                0x000000cc      0x10b Main.o
+ .debug_pubnames
+                0x000001d7       0xd9 Uart.o
+ .debug_pubnames
+                0x000002b0      0x105 timer.o
+ .debug_pubnames
+                0x000003b5       0x6d exception.o
+ .debug_pubnames
+                0x00000422      0x1f8 Lcd_480x272.o
+ .debug_pubnames
+                0x0000061a       0x49 touch.o
+ .debug_pubnames
+                0x00000663       0xe5 buzzer.o
+
+.debug_pubtypes
+                0x00000000       0xa2
+ .debug_pubtypes
+                0x00000000       0x12 libc.o
+ .debug_pubtypes
+                0x00000012       0x12 Main.o
+ .debug_pubtypes
+                0x00000024       0x3f Uart.o
+ .debug_pubtypes
+                0x00000063       0x3f Lcd_480x272.o
+
+.debug_str      0x00000000      0x7b9
+ .debug_str     0x00000000      0x101 libc.o
+                                0x125 (size before relaxing)
+ .debug_str     0x00000101      0x19c Main.o
+                                0x209 (size before relaxing)
+ .debug_str     0x0000029d       0xfb Uart.o
+                                0x149 (size before relaxing)
+ .debug_str     0x00000398       0x9b timer.o
+                                0x124 (size before relaxing)
+ .debug_str     0x00000433       0x9b exception.o
+                                 0xd7 (size before relaxing)
+ .debug_str     0x000004ce      0x252 Lcd_480x272.o
+                                0x32b (size before relaxing)
+ .debug_str     0x00000720       0x3a touch.o
+                                 0x69 (size before relaxing)
+ .debug_str     0x0000075a       0x5f buzzer.o
+                                0x120 (size before relaxing)
+
+.debug_frame    0x00000000     0x1274
+ .debug_frame   0x00000000      0x190 libc.o
+ .debug_frame   0x00000190       0x7c Main.o
+ .debug_frame   0x0000020c      0x19c Uart.o
+ .debug_frame   0x000003a8      0x100 timer.o
+ .debug_frame   0x000004a8       0xb0 exception.o
+ .debug_frame   0x00000558      0x2f0 Lcd_480x272.o
+ .debug_frame   0x00000848       0x70 touch.o
+ .debug_frame   0x000008b8      0x1b4 buzzer.o
+ .debug_frame   0x00000a6c       0x38 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-rand.o)
+ .debug_frame   0x00000aa4       0x44 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-vsprintf.o)
+ .debug_frame   0x00000ae8       0x3c /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+ .debug_frame   0x00000b24       0x64 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+ .debug_frame   0x00000b88       0x98 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+ .debug_frame   0x00000c20       0x3c /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .debug_frame   0x00000c5c       0x2c /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-memchr.o)
+ .debug_frame   0x00000c88       0x30 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-memcpy.o)
+ .debug_frame   0x00000cb8       0x30 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .debug_frame   0x00000ce8      0x228 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+ .debug_frame   0x00000f10       0x28 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-s_fpclassify.o)
+ .debug_frame   0x00000f38       0x2c /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000f64       0x30 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+ .debug_frame   0x00000f94       0x68 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+ .debug_frame   0x00000ffc       0x28 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-callocr.o)
+ .debug_frame   0x00001024       0x50 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .debug_frame   0x00001074       0x2c /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+ .debug_frame   0x000010a0       0x28 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .debug_frame   0x000010c8       0x3c /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+ .debug_frame   0x00001104       0x68 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .debug_frame   0x0000116c       0x20 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivsi3.o)
+ .debug_frame   0x0000118c       0x20 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divsi3.o)
+ .debug_frame   0x000011ac       0x50 /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(bpabi.o)
+ .debug_frame   0x000011fc       0x3c /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divdi3.o)
+ .debug_frame   0x00001238       0x3c /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivdi3.o)
+
+.debug_ranges   0x00000000       0x18
+ .debug_ranges  0x00000000       0x18 Main.o
+
+Cross Reference Table
+
+Symbol                                            File
+ADC_x                                             Main.o
+ADC_y                                             Main.o
+Beep                                              buzzer.o
+BuzzerTest                                        buzzer.o
+Buzzer_Beep                                       buzzer.o
+Buzzer_Init                                       buzzer.o
+CLR_IF                                            libs.o
+CONDITIONAL_EXECUTE                               libs.o
+Cal_x1                                            Main.o
+Cal_x2                                            Main.o
+Cal_y1                                            Main.o
+Cal_y2                                            Main.o
+ChangeRomCacheStatus                              libc.o
+Check_Func                                        Lcd_480x272.o
+DATA_PROCESS1                                     libs.o
+DATA_PROCESS2                                     libs.o
+Dabort_Handler                                    exception.o
+DelayForPlay2                                     buzzer.o
+Exception_Init                                    exception.o
+                                                  Main.o
+                                                  s3c2450_startup.o
+Fb_ptr                                            Lcd_480x272.o
+GRT_COM_MES                                       libs.o
+Graphic_Init                                      Lcd_480x272.o
+                                                  Main.o
+HOW_TO_RETURN                                     libs.o
+HW_Initial                                        Main.o
+HanTable                                          Lcd_480x272.o
+Handle2D                                          s3c2450_startup.o
+HandleADC                                         s3c2450_startup.o
+HandleBATFLT                                      s3c2450_startup.o
+HandleCAM                                         s3c2450_startup.o
+HandleCFCON                                       s3c2450_startup.o
+HandleDMA                                         s3c2450_startup.o
+HandleDabort                                      s3c2450_startup.o
+                                                  exception.o
+HandleEINT0                                       s3c2450_startup.o
+HandleEINT1                                       s3c2450_startup.o
+HandleEINT2                                       s3c2450_startup.o
+HandleEINT3                                       s3c2450_startup.o
+HandleEINT4_7                                     s3c2450_startup.o
+HandleEINT8_23                                    s3c2450_startup.o
+HandleFIQ                                         s3c2450_startup.o
+HandleI2S0                                        s3c2450_startup.o
+HandleI2S1                                        s3c2450_startup.o
+HandleIIC                                         s3c2450_startup.o
+HandleIIC1                                        s3c2450_startup.o
+HandleIRQ                                         s3c2450_startup.o
+HandleLCD                                         s3c2450_startup.o
+HandleNFCON                                       s3c2450_startup.o
+HandlePCM0                                        s3c2450_startup.o
+HandlePCM1                                        s3c2450_startup.o
+HandlePabort                                      s3c2450_startup.o
+                                                  exception.o
+HandleRSV1                                        s3c2450_startup.o
+HandleRSV2                                        s3c2450_startup.o
+HandleRTC                                         s3c2450_startup.o
+HandleReserved                                    s3c2450_startup.o
+HandleReset                                       s3c2450_startup.o
+HandleSDI0                                        s3c2450_startup.o
+HandleSDI1                                        s3c2450_startup.o
+HandleSPI0                                        s3c2450_startup.o
+HandleSPI1                                        s3c2450_startup.o
+HandleSWI                                         s3c2450_startup.o
+                                                  exception.o
+HandleTICK                                        s3c2450_startup.o
+HandleTIMER0                                      s3c2450_startup.o
+HandleTIMER1                                      s3c2450_startup.o
+HandleTIMER2                                      s3c2450_startup.o
+HandleTIMER3                                      s3c2450_startup.o
+HandleTIMER4                                      s3c2450_startup.o
+HandleUART0                                       s3c2450_startup.o
+HandleUART1                                       s3c2450_startup.o
+HandleUART2                                       s3c2450_startup.o
+HandleUART3                                       s3c2450_startup.o
+HandleUSBD                                        s3c2450_startup.o
+HandleUSBH                                        s3c2450_startup.o
+HandleUndef                                       s3c2450_startup.o
+                                                  exception.o
+HandleWDT                                         s3c2450_startup.o
+IsrIRQ                                            s3c2450_startup.o
+Lcd_Clr_Screen                                    Lcd_480x272.o
+                                                  Main.o
+Lcd_Copy                                          Lcd_480x272.o
+                                                  Main.o
+Lcd_Display_Frame_Buffer                          Lcd_480x272.o
+                                                  Main.o
+Lcd_Draw_BMP                                      Lcd_480x272.o
+                                                  timer.o
+                                                  Main.o
+Lcd_Draw_Color                                    Lcd_480x272.o
+Lcd_Eng_Putch                                     Lcd_480x272.o
+Lcd_Envid_On_Off                                  Lcd_480x272.o
+Lcd_Get_Info_BMP                                  Lcd_480x272.o
+Lcd_Han_Putch                                     Lcd_480x272.o
+Lcd_Init                                          Lcd_480x272.o
+Lcd_Make_Bmp_Buffer                               Lcd_480x272.o
+Lcd_Port_Init                                     Lcd_480x272.o
+Lcd_Power_Enable                                  Lcd_480x272.o
+Lcd_Printf                                        Lcd_480x272.o
+                                                  timer.o
+                                                  Main.o
+Lcd_Put_Pixel                                     Lcd_480x272.o
+                                                  Main.o
+Lcd_Puts                                          Lcd_480x272.o
+Lcd_Select_Frame_Buffer                           Lcd_480x272.o
+                                                  timer.o
+                                                  Main.o
+Lcd_Set_Address                                   Lcd_480x272.o
+Lcd_Set_Tran_Mode                                 Lcd_480x272.o
+Lcd_Wait_Blank                                    Lcd_480x272.o
+Led0_Display                                      buzzer.o
+Led0_Port_Init                                    buzzer.o
+Led_Display                                       libc.o
+                                                  buzzer.o
+Led_Port_Init                                     libc.o
+MEMCPY                                            libs.o
+MEMCPY_MULTIPLE                                   libs.o
+MEMCPY_SINGLE                                     libs.o
+MMU_CleanDCacheIndex                              libs.o
+MMU_CleanDCacheMVA                                libs.o
+MMU_CleanInvalidateDCacheIndex                    libs.o
+                                                  libc.o
+MMU_CleanInvalidateDCacheMVA                      libs.o
+MMU_DisableAlignFault                             libs.o
+MMU_DisableDCache                                 libs.o
+                                                  libc.o
+MMU_DisableICache                                 libs.o
+                                                  libc.o
+MMU_DisableMMU                                    libs.o
+                                                  libc.o
+MMU_EnableAlignFault                              libs.o
+                                                  libc.o
+MMU_EnableDCache                                  libs.o
+                                                  libc.o
+MMU_EnableICache                                  libs.o
+                                                  libc.o
+MMU_EnableMMU                                     libs.o
+                                                  libc.o
+MMU_Init                                          libc.o
+                                                  Main.o
+MMU_InvalidateDCache                              libs.o
+MMU_InvalidateDCacheMVA                           libs.o
+MMU_InvalidateDTLB                                libs.o
+MMU_InvalidateDTLBMVA                             libs.o
+MMU_InvalidateICache                              libs.o
+                                                  libc.o
+MMU_InvalidateICacheMVA                           libs.o
+MMU_InvalidateIDCache                             libs.o
+MMU_InvalidateITLB                                libs.o
+MMU_InvalidateITLBMVA                             libs.o
+MMU_InvalidateTLB                                 libs.o
+                                                  libc.o
+MMU_PrefetchICacheMVA                             libs.o
+MMU_SetAsyncBusMode                               libs.o
+MMU_SetDCacheLockdownBase                         libs.o
+MMU_SetDTLBLockdown                               libs.o
+MMU_SetDomain                                     libs.o
+                                                  libc.o
+MMU_SetFastBusMode                                libs.o
+MMU_SetICacheLockdownBase                         libs.o
+MMU_SetITLBLockdown                               libs.o
+MMU_SetMTT                                        libc.o
+MMU_SetProcessId                                  libs.o
+                                                  libc.o
+MMU_SetTTBase                                     libs.o
+                                                  libc.o
+MMU_WaitForInterrupt                              libs.o
+Main                                              Main.o
+                                                  s3c2450_startup.o
+Make_bg_Buffer                                    Lcd_480x272.o
+MemDump                                           libc.o
+MemFill                                           libc.o
+Pabort_Handler                                    exception.o
+ResetHandler                                      s3c2450_startup.o
+SET_IF                                            libs.o
+SUM_OF_DEC                                        libs.o
+SWI_Handler                                       exception.o
+Timer0_Delay                                      timer.o
+                                                  Main.o
+Timer0_Init                                       timer.o
+                                                  Main.o
+Timer2_ISR                                        timer.o
+Title1                                            Main.o
+Touch_ISR                                         Main.o
+Touch_ISR_Enable                                  touch.o
+                                                  Main.o
+Touch_Init                                        touch.o
+Touch_Isr_Init                                    touch.o
+                                                  Main.o
+Touch_config                                      Main.o
+Touch_pressed                                     Main.o
+Touch_x                                           Main.o
+Touch_y                                           Main.o
+Uart_GetChar                                      Uart.o
+Uart_GetIntNum                                    Uart.o
+Uart_GetKey                                       Uart.o
+Uart_GetString                                    Uart.o
+Uart_Get_Pressed                                  Uart.o
+Uart_Init                                         Uart.o
+                                                  Main.o
+Uart_Printf                                       Uart.o
+                                                  exception.o
+                                                  timer.o
+                                                  Main.o
+                                                  libc.o
+Uart_Send_Byte                                    Uart.o
+Uart_Send_String                                  Uart.o
+Uart_TxEmpty                                      Uart.o
+Undef_Handler                                     exception.o
+WR_IF                                             libs.o
+_Balloc                                           /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+_Bfree                                            /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+_PathLocale                                       /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+__adddf3                                          /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+__aeabi_cdcmpeq                                   /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+__aeabi_cdcmple                                   /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+__aeabi_cdrcmple                                  /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+__aeabi_d2iz                                      /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_fixdfsi.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+                                                  Main.o
+__aeabi_d2uiz                                     /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_fixunsdfsi.o)
+                                                  buzzer.o
+                                                  timer.o
+                                                  Uart.o
+__aeabi_dadd                                      /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+                                                  Uart.o
+                                                  Main.o
+__aeabi_dcmpeq                                    /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+__aeabi_dcmpge                                    /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+                                                  Main.o
+__aeabi_dcmpgt                                    /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+__aeabi_dcmple                                    /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+__aeabi_dcmplt                                    /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+__aeabi_ddiv                                      /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_muldivdf3.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+                                                  Uart.o
+__aeabi_dmul                                      /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_muldivdf3.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+                                                  buzzer.o
+                                                  timer.o
+                                                  Main.o
+__aeabi_drsub                                     /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+__aeabi_dsub                                      /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+                                                  Main.o
+__aeabi_f2d                                       /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+__aeabi_i2d                                       /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+                                                  buzzer.o
+                                                  timer.o
+                                                  Uart.o
+                                                  Main.o
+__aeabi_idiv                                      /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divsi3.o)
+                                                  buzzer.o
+                                                  Main.o
+__aeabi_idiv0                                     /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_dvmd_tls.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divsi3.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivsi3.o)
+__aeabi_idivmod                                   /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divsi3.o)
+__aeabi_l2d                                       /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+__aeabi_ldiv0                                     /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_dvmd_tls.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_aeabi_uldivmod.o)
+__aeabi_ui2d                                      /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+__aeabi_uidiv                                     /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivsi3.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivdi3.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divdi3.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+                                                  Lcd_480x272.o
+__aeabi_uidivmod                                  /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivsi3.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivdi3.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divdi3.o)
+__aeabi_ul2d                                      /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+__aeabi_uldivmod                                  /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_aeabi_uldivmod.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+__any_on                                          /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+__b2d                                             /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+__clzsi2                                          /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_clzsi2.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivdi3.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divdi3.o)
+__cmpdf2                                          /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+__copybits                                        /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+__d2b                                             /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+__divdf3                                          /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_muldivdf3.o)
+__divdi3                                          /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divdi3.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(bpabi.o)
+__divsi3                                          /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divsi3.o)
+__eqdf2                                           /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+__extendsfdf2                                     /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+__fixdfsi                                         /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_fixdfsi.o)
+__fixunsdfsi                                      /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_fixunsdfsi.o)
+__floatdidf                                       /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+__floatsidf                                       /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+__floatundidf                                     /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+__floatunsidf                                     /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+__fpclassifyd                                     /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-s_fpclassify.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+__gedf2                                           /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+__gnu_ldivmod_helper                              /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(bpabi.o)
+__gnu_uldivmod_helper                             /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(bpabi.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_aeabi_uldivmod.o)
+__gtdf2                                           /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+__hi0bits                                         /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+__i2b                                             /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+__ledf2                                           /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+__lo0bits                                         /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+__locale_charset                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+__locale_cjk_lang                                 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+__locale_mb_cur_max                               /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+__locale_msgcharset                               /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+__lshift                                          /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+__ltdf2                                           /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+__malloc_av_                                      /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-freer.o)
+__malloc_current_mallinfo                         /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-freer.o)
+__malloc_lock                                     /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-freer.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+__malloc_max_sbrked_mem                           /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+__malloc_max_total_mem                            /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+__malloc_sbrk_base                                /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-freer.o)
+__malloc_top_pad                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-freer.o)
+__malloc_trim_threshold                           /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-freer.o)
+__malloc_unlock                                   /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-freer.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+__mb_cur_max                                      /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+__mcmp                                            /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+__mdiff                                           /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+__mlocale_changed                                 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+__mprec_bigtens                                   /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+__mprec_tens                                      /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+__mprec_tinytens                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+__muldf3                                          /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_muldivdf3.o)
+__multadd                                         /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+__multiply                                        /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+__nedf2                                           /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+__nlocale_changed                                 /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+__pow5mult                                        /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+__ratio                                           /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+__s2b                                             /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+__ssprint_r                                       /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+__subdf3                                          /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+__udivdi3                                         /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivdi3.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(bpabi.o)
+__udivsi3                                         /opt/CodeSourcery/Sourcery_G++_Lite/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivsi3.o)
+__ulp                                             /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+_calloc_r                                         /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-callocr.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+_dtoa_r                                           /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+_free_r                                           /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-freer.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-reent.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+_global_impure_ptr                                /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-impure.o)
+_impure_ptr                                       /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-impure.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-reent.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-vsprintf.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-rand.o)
+_localeconv_r                                     /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+_malloc_r                                         /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-callocr.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+_malloc_trim_r                                    /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-freer.o)
+_mprec_log10                                      /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+_realloc_r                                        /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+_reclaim_reent                                    /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-reent.o)
+_sbrk                                             s3c2450_startup.o
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+_sbrk_r                                           /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-freer.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+_setlocale_r                                      /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+_start                                            s3c2450_startup.o
+_svfiprintf_r                                     /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+_svfprintf_r                                      /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-vsprintf.o)
+_vsprintf_r                                       /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-vsprintf.o)
+_wrapup_reent                                     /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-reent.o)
+atoi                                              Uart.o
+bat                                               Main.o
+bat_2                                             timer.o
+betSecond                                         timer.o
+betSecond_end                                     timer.o
+                                                  Main.o
+bet_limit_init                                    timer.o
+bet_randomUp_init                                 timer.o
+bss_end_addr                                      s3c2450_startup.o
+bss_start_addr                                    s3c2450_startup.o
+cleanup_glue                                      /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-reent.o)
+data_end_addr                                     s3c2450_startup.o
+data_start_addr                                   s3c2450_startup.o
+eng8x16                                           Lcd_480x272.o
+errno                                             /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-reent.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+free                                              libc.o
+gamesong                                          buzzer.o
+                                                  Main.o
+han16x16                                          Lcd_480x272.o
+howtoplay                                         Main.o
+localeconv                                        /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+malloc                                            libc.o
+mallocPt                                          libc.o
+memchr                                            /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-memchr.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+memcpy                                            /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-memcpy.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+memmove                                           /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+memset                                            /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-memset.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-callocr.o)
+raiseSecond                                       timer.o
+raiseSecond_end                                   timer.o
+raiseSecond_end_reset                             Main.o
+                                                  timer.o
+rand                                              /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-rand.o)
+                                                  Main.o
+realui                                            Main.o
+rodata_end_addr                                   s3c2450_startup.o
+setlocale                                         /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+srand                                             /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-rand.o)
+                                                  Main.o
+start_timer0                                      libc.o
+step                                              Main.o
+stop                                              Main.o
+stop_2                                            timer.o
+stop_timer0                                       libc.o
+strcmp                                            /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+strlen                                            Uart.o
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+                                                  /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+time                                              libc.o
+                                                  Main.o
+touchsound0                                       buzzer.o
+                                                  Main.o
+touchsound10                                      buzzer.o
+                                                  Main.o
+touchsoundAll                                     buzzer.o
+                                                  Main.o
+touchsoundbat                                     buzzer.o
+                                                  Main.o
+touchsoundstop                                    buzzer.o
+                                                  Main.o
+vsprintf                                          /opt/CodeSourcery/Sourcery_G++_Lite/arm-none-eabi/lib/libc.a(lib_a-vsprintf.o)
+                                                  Lcd_480x272.o
+                                                  Uart.o
+whSecond                                          timer.o
+whSecond_end                                      timer.o
+whole_time                                        timer.o
+                                                  Main.o
+whole_time_init                                   timer.o
+                                                  Main.o
